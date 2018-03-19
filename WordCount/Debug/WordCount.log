@@ -1,0 +1,4 @@
+﻿  wc.cpp
+e:\softwaretest\wordcount\wordcount\wc.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  WordCount.vcxproj -> E:\softwaretest\WordCount\Debug\WordCount.exe
+  WordCount.vcxproj -> E:\softwaretest\WordCount\Debug\WordCount.pdb (Full PDB)
